@@ -20,15 +20,20 @@ Content Notes:
 The goal for this daily planner is to continue as part of a group of projects used to build upon multiple application with varying functions and features to eventualy include into future projects as well as my active portfolio.
 
 
-Installation download the index.html from the GitHub repo link provided below. Repo Link: https://github.com/ronj2005/Aaron-Jones-Developer-Portfolio
+Installation download the index.html from the GitHub repo link provided below. Repo Link: https://github.com/ronj2005/Daily-Planner
 
 or
 
-copy the link to the site url to access the remote site. Direct Link: https://ronj2005.github.io/Extensive-Password-Generator/
+copy the link to the site url to access the remote site. Direct Link: https://ronj2005.github.io/Daily-Planner/
 
 Usage Open the index.html file in your browser of choice.
 
-By clicking the "generate password" button, the user will be abke to create a unique password which includes character (Lower and Upper), numbers, and special characters.
+To add a daily submit to the schedule form, press the "save button", and the user will be able to create a save of their submission to the local storage. Each time of the day is color coded based on the current time.
+
+- Grey for past events and time
+- Red from current events and time
+- Green for future events and time
+
 
 Credits N/A
 
